@@ -5,7 +5,7 @@
 La **República Animal de Dracovia** es un proyecto creativo y educativo desarrollado con **HTML5, CSS3 y archivos multimedia**, ideal como práctica para estructuración web, estilo modular y contenido narrativo.  
 El objetivo del proyecto es crear una página completa sobre un país ficticio donde **los animales conforman la clase dominante** y los humanos actúan como trabajadores y asistentes dentro de una sociedad fantástica.
 
-!images/web.png
+<!images/web.png>
 
 ## 🚀 Características del Proyecto
 
