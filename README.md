@@ -21,7 +21,8 @@ El objetivo del proyecto es crear una página completa sobre un país ficticio d
 - 🖼️ **Imágenes originales generadas** para:  
   - Bandera de Dracovia  
   - Mapa del territorio  
-  - Elementos visuales (si se añaden más)
+  - Elementos visuales
+    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/36f2fb15-d776-4b81-aa57-5246b4a54a24" />
 
 - 📊 **Tablas informativas**:  
   Población, clases sociales, castigos según especie, tipos de trabajo, etc.
